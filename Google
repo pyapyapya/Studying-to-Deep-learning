@@ -1,0 +1,9 @@
+Questions find the Answers for Google
+
+What about Activation Function? - https://reniew.github.io/12/ (sigmoid, hypertan, ReLU, Leaky ReLU)
+What about one-hot-encoding : https://wikidocs.net/22647
+What is overfiiting : https://pythonkim.tistory.com/42
+Dropout - https://paiai.tistory.com/40
+Hyperparameter - http://www.engear.net/wp/hyper-paramertesr-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/
+  (Learning Rate, Cost Function, Regularization parameter, Mini-batch, Traning iteration, number of hidden unit, weight initializaion)
+Parameter VS HyperParameter : http://blog.naver.com/PostView.nhn?blogId=tjdudwo93&logNo=221067763334&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
