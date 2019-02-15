@@ -1,3 +1,5 @@
-When will the object be initialized -
+객체 초기화를 언제 하는가? -
 https://langgeek.tistory.com/entry/Effective-C-%ED%95%AD%EB%AA%A9-4-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B7%B8-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EC%9E%90
+
+__init__의 기능과 magic method - https://ziwon.github.io/post/python_magic_methods/
 
