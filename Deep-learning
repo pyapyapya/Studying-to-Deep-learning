@@ -1,9 +1,19 @@
-Questions find the Answers for Google
+공부하다 모르는 것 해답 링크
 
-What about Activation Function? - https://reniew.github.io/12/ (sigmoid, hypertan, ReLU, Leaky ReLU)
-What about one-hot-encoding : https://wikidocs.net/22647
-What is overfiiting : https://pythonkim.tistory.com/42
+Activation Function? - https://reniew.github.io/12/ (sigmoid, hypertan, ReLU, Leaky ReLU)
+one-hot-encoding : https://wikidocs.net/22647
+overfiiting : https://pythonkim.tistory.com/42
 Dropout - https://paiai.tistory.com/40
 Hyperparameter - http://www.engear.net/wp/hyper-paramertesr-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/
   (Learning Rate, Cost Function, Regularization parameter, Mini-batch, Traning iteration, number of hidden unit, weight initializaion)
 Parameter VS HyperParameter : http://blog.naver.com/PostView.nhn?blogId=tjdudwo93&logNo=221067763334&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+Batch란 : https://nonmeyet.tistory.com/entry/Batch-MiniBatch-Stochastic-%EC%A0%95%EC%9D%98%EC%99%80-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EC%98%88%EC%8B%9C
+Batch-size 결정 방법: https://goodtogreate.tistory.com/entry/Batch-%ED%81%AC%EA%B8%B0%EC%9D%98-%EA%B2%B0%EC%A0%95-%EB%B0%A9%EB%B2%95
+validation split = https://3months.tistory.com/118
+Dense - https://tykimos.github.io/2017/01/27/MLP_Layer_Talk/
+
+
+
+괜찮은 블로그 강의들
+http://blog.naver.com/PostView.nhn?blogId=laonple&logNo=220818841217&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+CS231n 번역 블로그 - http://aikorea.org/cs231n/
